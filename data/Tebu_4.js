@@ -1,0 +1,1 @@
+var json_Tebu_4 = {"type":"FeatureCollection","name":"Tebu_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Sambas":"Kab. Sambas","Luasan":"255","Produksi":"125","photo":"../../perkebunan kalbar/WhatsApp Image 2025-05-15 at 19.55.47_30a7f07c.jpg"},"geometry":null}]}
